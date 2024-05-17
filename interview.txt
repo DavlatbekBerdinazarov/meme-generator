@@ -1,0 +1,79 @@
+INTERVIEW QUESTIONS
+
+Bu erda HTML bilan bog'liq 10 ta intervyu savollari:
+1.	HTML nima va uning asosiy maqsadi nima?
+2.	HTML va XHTML o'rtasidagi farqni tushuntiring.
+3.	HTMLda giperhavola qanday yaratiladi?
+4.	<header>, <nav>va kabi HTML semantik elementlarining maqsadi nima <footer>?
+5.	Rasmni HTML sahifasiga qanday joylashtirish mumkin?
+6.	HTML-dagi inline elementlar va blok darajasidagi elementlar o'rtasidagi farqlar qanday?
+7.	HTMLda ro'yxat(list) qanday yaratiladi? Tartibli ro‘yxat va tartibsiz ro‘yxat o‘rtasidagi farqni tushuntiring.
+8.	HTML meta teglarining maqsadi va ishlatilishini tasvirlab bering.
+9.	HTMLda qanday qilib jadval (table) yaratish mumkin? Misol keltiring.
+10.	HTMLda form tushunchasini tushuntiring va ba'zi tez-tez ishlatiladigan form elementlarini muhokama qiling.
+11.	HTML da qanday qililb icon qo’yish mumkin.
+12.	HTML da media video bilan qanday ishlatiladi.
+13.	HTML ga css va js ni qanday ulash mumkin.
+
+
+Mana 20 ta CSS intervyu savollari:
+1.	CSS nimani anglatadi va uning veb-ishlab chiqishdagi maqsadi nima?
+2.	CSS-da padding va margin o'rtasidagi farqni tushuntiring.
+3.	CSS-da elementni gorizontal va vertikal ravishda qanday markazlashtirasiz?
+4.	CSS selektorlarida class  va id o'rtasidagi farqni tasvirlab bering.
+5.	CSS box modeli nima va u qanday ishlaydi?
+6.	CSS-da html artibuti orqali elementni qanday tanlab olasiz (select qilasiz)?
+7.	display: block, display: inline va  ning farqini tushuntiring 
+8.	CSS- o’zi qanday til va uni tushuntiring?
+9.	CSS media so'rovlari yordamida responsive dizaynni qanday yaratasiz?
+10.	CSS-da pseudo-class nima va ulardan foydalanishga misollar keltiring?
+11.	CSS-da relative, absolute va fixed positioni o'rtasidagi farqni tasvirlab bering.
+12.	CSS-da animatsiyalarni qanday qo'llaysiz?
+13.	CSS-da pseudo-elementlar qanday ishlatiladi va misollar keltring?
+14.	CSS preprotsessorlari tushunchasini tushuntiring va misollar keltiring.
+15.	CSS da display grid qanday ishlaydi tushuntirib bering?
+16.	CSS-da gradient fonni qanday yaratasiz?
+17.	CSS-dagi z-indexning maqsadi nima va u qanday ishlaydi?
+18.	Flexbox tushunchasini va uning dizayndagi afzalliklarini tushuntiring.
+19.	Flex va grid ni qay birini qanday hollarda ishlatish yaxshi?
+20.	CSS da rem em vh vw kabi unitslarni tushuntirib bering?
+21.	CSS dagi Font xossalari haqida malumot bering.
+22.	CSS dagi Text xossalari haqida malumot bering.
+23.	CSS da sahifa yaratish uchun container ni qanday yasaysiz.
+24.	Width ni max va min width bilan farqi nimada.
+25.	CSS kutubxonalari haqida qanday texnologiyalarni bilasiz.
+
+
+
+Mana 30 ta JavaScript intervyu savollari:
+1.	JavaScript nima va uning veb-ishlab chiqishdagi roli qanday?
+2.	JavaScript da malumot turlari ni aytib bering 
+3.	Malumot turlari qanday ajratiladi va ularni farqi nima (primitive reference)
+4.	JavaScript-dagi undefined va null o'rtasidagi farqni tushuntiring. 
+5.	JavaScript-da o'zgaruvchilarni turlari va farqlari var let const?
+6.	JavaScript-da this? kalit so'zning ahamiyati nimada 
+7.	JavaScript da funksiya turlarini keltiring.
+8.	JavaScript-da closures tushunchasini tushuntiring va misol keltiring.
+9.	JavaScript-da asinxron operatsiyalarni qanday bajarasiz?
+10.	Sinxron va asinxron JavaScript o'rtasidagi farqni tasvirlab bering.
+11.	JavaScript-da callbacks nima va ular nima uchun ishlatiladi?
+12.	JavaScript-da qanday qilib funksiya yaratasiz? Funksiyani e'lon qilish va funksiya ifodasiga misollar keltiring.
+13.	JavaScript-dagi == va === operatorlar o'rtasidagi farq nima ?
+14.	JavaScript-da hoisting tushunchasini tushuntiring.
+15.	JavaScript-da massivlar va ob'ektlarni qanday iteratsiya qilasiz?
+16.	JavaScript-dagi map, filter va .reduce funktsiyalari o'rtasidagi farqni tasvirlab bering 
+17.	JavaScript-dagi error larni qanday hal qilasiz?
+18.	JavaScript-dagi setTimeout va setInterval funksiyalarining maqsadini tushuntiring 
+19.	JavaScript-dagi fetch obyektning maqsadi nima Siz undan qanday foydalanasiz?
+20.	JavaScript-da JSON ma'lumotlari bilan qanday ishlaysiz?
+21.	JavaScript-dagi APIning maqsadi nima fetch va undan HTTP so'rovlarini amalga oshirish uchun qanday foydalanasiz?
+22.	JavaScript-da prototipli meros tushunchasini tavsiflang.
+23.	JavaScript yordamida DOMni qanday boshqarasiz?
+24.	JavaScript-dagi arrow function funksiyalari nima va ular oddiy funksiyalardan nimasi bilan farq qiladi?
+25.	JavaScript-da async va await kalit so'zlarning maqsadini tasvirlab bering.
+26.	JavaScript da foreach va map funksiyalari vazifalari farqi nimada.
+27.	JavaScript-da typeof operatorning maqsadi nima?
+28.	JavaScript-dan foydalanib DOM-da elementlarni dinamik ravishda qanday yaratasiz va o'chirasiz?
+29.	JavaScript-da qamrov tushunchasini tavsiflang.
+30.	JavaScript-dagi modullar nima va ulardan qanday foydalanasiz?
+
